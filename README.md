@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/renatachagasc/crud-angular/src/assets/2.PNG"/>
+<img src="https://github.com/renatachagasc/crud-angular/blob/master/src/assets/2.png"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/renatachagasc/crud-angular/src/assets/3.PNG"/>
+<img src="https://github.com/renatachagasc/crud-angular/blob/master/src/assets/3.png"/>
 </p>
 
 
