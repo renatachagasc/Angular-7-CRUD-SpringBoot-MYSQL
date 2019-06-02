@@ -1,7 +1,7 @@
 # CrudAngular
 
 <p align="center">
-<img src="https://github.com/renatachagasc/crud-angular/src/assets/1.PNG"/>
+<img src="https://github.com/renatachagasc/crud-angular/blob/master/src/assets/1.png"/>
 </p>
 
 <p align="center">
